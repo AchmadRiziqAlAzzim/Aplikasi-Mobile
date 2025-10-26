@@ -1,0 +1,5 @@
+{
+  "name": "mySecondApp",
+  "integrations": {},
+  "type": "vue-vite"
+}
